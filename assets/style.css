@@ -2,9 +2,15 @@
   display: grid;
   height: 200px;
   width: 200px;
+  justify-items: center;
+  align-items: center;
 }
 .main-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-
+  gap: 10px;
+  
+}
+.header-container {
+  text-align: center;
 }
