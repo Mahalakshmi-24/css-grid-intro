@@ -1,0 +1,40 @@
+/* basic utility rules here */
+:root {
+  --black: #1c1e18;
+  --white: #c5e5ec;
+  --gray: #97b0bf;
+  --red: #b97c85;
+  --green: #3dadb7;
+}
+
+/* color utilities */
+.bg-black {
+  background-color: var(--black);
+}
+.bg-gray {
+  background-color: var(--gray);
+}
+.bg-white {
+  background-color: var(--white);
+}
+.bg-red {
+  background-color: var(--red);
+}
+.bg-green {
+  background-color: var(--green);
+}
+.black {
+  color: var(--black);
+}
+.gray {
+  color: var(--gray);
+}
+.white {
+  color: var(--white);
+}
+.red {
+  color: var(--red);
+}
+.green {
+  color: var(--green);
+}
