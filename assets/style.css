@@ -1,0 +1,10 @@
+.box {
+  display: grid;
+  height: 200px;
+  width: 200px;
+}
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+}
