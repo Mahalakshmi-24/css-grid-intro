@@ -13,6 +13,10 @@
 }
 .main-container header {
   grid-column: 1 / -1;
+  text-align: center;
+}
+.main-container h2{
+  margin: 0px;
 }
 .header-container {
   text-align: center;
